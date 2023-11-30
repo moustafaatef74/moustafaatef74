@@ -9,7 +9,7 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MoustafaAtef74&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoustafaAtef74&layout=compact&count_private=true&langs_count=10&count_private=true&show_icons=true&theme=radical)
 <br>
-[![wakatime](https://wakatime.com/badge/user/18d26b29-1a82-4931-b51e-348fff88aa37.svg)](https://wakatime.com/@18d26b29-1a82-4931-b51e-348fff88aa37)
+[![wakatime](https://wakatime.com/badge/user/018c2060-f886-49fe-ac06-0d30969100ad.svg)](https://wakatime.com/@018c2060-f886-49fe-ac06-0d30969100ad)
 <br>
 ![Moustafa Atef Saad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moustafaatef74&theme=radical)
 <br>
