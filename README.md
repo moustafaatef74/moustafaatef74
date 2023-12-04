@@ -13,7 +13,7 @@
 <br>
 [![Moustafa Atef's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MoustafaAtef74)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=moustafaatef74&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MoustafaAtef74&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Some of the languages I use daily.
