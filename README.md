@@ -11,7 +11,7 @@
 <!-- <br> -->
 [![wakatime](https://wakatime.com/badge/user/018c2060-f886-49fe-ac06-0d30969100ad.svg)](https://wakatime.com/@018c2060-f886-49fe-ac06-0d30969100ad)
 <br>
-[![Moustafa Atef's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MoustafaAtef74)](https://github.com/anuraghazra/github-readme-stats)
+[![Moustafa Atef's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MoustafaAtef74&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=MoustafaAtef74&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
